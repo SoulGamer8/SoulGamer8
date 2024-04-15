@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://wakatime.com/badge/user/018edefd-3d10-4ee6-9699-49eeda1ae279/project/018edf1a-e5a8-4137-9499-5c4703671b7d.svg
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
