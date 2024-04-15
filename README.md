@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: SoulGamer8/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${ waka_fc832123-d699-4d58-964a-d62e58748435 }
+          GH_TOKEN: ${ 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 }
