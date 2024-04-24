@@ -36,10 +36,6 @@ Hi, I'm [Anton Orekhov](https://www.linkedin.com/in/anton-orekhov-803434278/), M
   </a> 
 </p>
 
-
-
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/4b4df584eeadbc833d9e3977f1866f1fbbe5fe10210a2d4500219bcd90f021b7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3634302f312a5a53566d57476363317765454e6230536861775778772e676966" width="500" height="320" />
-  
 - 💼 Did i interest you? Contact me [email](mailto:anton3103@outlook.com)
 
 
