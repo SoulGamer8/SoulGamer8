@@ -44,11 +44,11 @@ Hi, I'm [Anton Orekhov](https://www.linkedin.com/in/anton-orekhov-803434278/), M
 <!--START_SECTION:waka-->
 
 ```txt
-unity      8 hrs 5 mins    █████████████▒░░░░░░░░░░░   53.20 %
-C#         6 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   45.24 %
-JSON       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+unity      8 hrs 5 mins    █████████████▓░░░░░░░░░░░   54.54 %
+C#         6 hrs 32 mins   ███████████░░░░░░░░░░░░░░   44.03 %
+JSON       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
