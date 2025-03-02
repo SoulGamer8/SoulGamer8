@@ -44,11 +44,11 @@ Hi, I'm [Anton Orekhov](https://www.linkedin.com/in/anton-orekhov-803434278/), M
 <!--START_SECTION:waka-->
 
 ```txt
-C#                18 hrs 39 mins  ████████████████████████▓   99.03 %
-Java Properties   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-XML               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C#                16 hrs 34 mins  ████████████████████████░   95.59 %
+XML               35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Java Properties   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Text              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
