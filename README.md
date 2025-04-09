@@ -44,8 +44,8 @@ Hi, I'm [Anton Orekhov](https://www.linkedin.com/in/anton-orekhov-803434278/), M
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy            3 mins          ██████████████░░░░░░░░░░░   55.38 %
-Java Properties   3 mins          ███████████░░░░░░░░░░░░░░   44.62 %
+Groovy            12 mins         ████████████████████░░░░░   79.73 %
+Java Properties   3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.27 %
 ```
 
 <!--END_SECTION:waka-->
