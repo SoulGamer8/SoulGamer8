@@ -44,7 +44,9 @@ Hi, I'm [Anton Orekhov](https://www.linkedin.com/in/anton-orekhov-803434278/), M
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   1 min           █████████████████████████   100.00 %
+JSON         13 mins         ███████████████████░░░░░░   76.27 %
+XML          2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Git Config   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
 ```
 
 <!--END_SECTION:waka-->
