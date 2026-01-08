@@ -44,7 +44,8 @@ Hi, I'm [Anton Orekhov](https://www.linkedin.com/in/anton-orekhov-803434278/), M
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   6 mins          █████████████████████████   100.00 %
+Java Properties   6 mins          ████████████▓░░░░░░░░░░░░   50.74 %
+Markdown          6 mins          ████████████▒░░░░░░░░░░░░   49.26 %
 ```
 
 <!--END_SECTION:waka-->
