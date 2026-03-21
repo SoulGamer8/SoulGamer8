@@ -44,8 +44,8 @@ Hi, I'm [Anton Orekhov](https://www.linkedin.com/in/anton-orekhov-803434278/), M
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    28 mins               ████████████████████████▒   97.93 %
-Other   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+YAML    32 mins               ████████████████████████▓   98.17 %
+Other   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
