@@ -44,8 +44,9 @@ Hi, I'm [Anton Orekhov](https://www.linkedin.com/in/anton-orekhov-803434278/), M
 <!--START_SECTION:waka-->
 
 ```txt
-C#      16 mins               █████████████████████████   99.93 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C#      53 mins               ██████████████████████▓░░   91.13 %
+HTML    5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
