@@ -28,10 +28,6 @@ an idle/factory game shipping to Android, iOS and PC from a single codebase.
 
 ---
 
-
-- 💼 Did i interest you? Contact me [email](mailto:anton3103@outlook.com)
-
-
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
