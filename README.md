@@ -28,11 +28,6 @@ an idle/factory game shipping to Android, iOS and PC from a single codebase.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoulGamer8&show_icons=true&hide_border=true&theme=graywhite" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulGamer8&layout=compact&hide_border=true&theme=graywhite" height="150" alt="languages"/>
-</p>
-
 
 - 💼 Did i interest you? Contact me [email](mailto:anton3103@outlook.com)
 
