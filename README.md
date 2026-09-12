@@ -32,11 +32,11 @@ an idle/factory game shipping to Android, iOS and PC from a single codebase.
 <!--START_SECTION:waka-->
 
 ```txt
-C#              1 hr 16 mins          █████████▒░░░░░░░░░░░░░░░   37.97 %
-HTML            52 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-Other           35 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
-JSON            21 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Markdown        15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+C#              1 hr 10 mins          ██████████▒░░░░░░░░░░░░░░   40.72 %
+Other           36 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
+HTML            28 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+JSON            21 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Markdown        15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
 ```
 
 <!--END_SECTION:waka-->
