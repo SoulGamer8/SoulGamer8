@@ -32,9 +32,9 @@ an idle/factory game shipping to Android, iOS and PC from a single codebase.
 <!--START_SECTION:waka-->
 
 ```txt
-C#              1 hr 24 mins          ██████████████████▓░░░░░░   74.81 %
-Other           19 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
-Unity3D Asset   9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+C#              1 hr 42 mins          ███████████████████▓░░░░░   79.17 %
+Other           17 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+Unity3D Asset   9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 Markdown        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
